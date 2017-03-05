@@ -1,4 +1,4 @@
-# bootstrap-beginner-template
+# Bootstrap Beginner Template
 Simple offline bootstrap template for beginners
 ## Usage
 1. Download the whole repository on your device
